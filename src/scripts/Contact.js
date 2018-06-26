@@ -1,1 +1,1 @@
-console.log("contact.js working");
+//A Contact component that displays a person's name, phone number, and address.
